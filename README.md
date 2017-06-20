@@ -1,7 +1,7 @@
 ### MovieTime
 
 1. Accept a GET request that specifies a movie title through the url
-2. Make a request to 'http://www.omdbapi.com/' to search for that title
+2. Make a request to 'https://moviesapi.com' to search for that title
 3. Return results as json
 
 ### Iteration 1
